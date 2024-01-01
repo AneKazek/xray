@@ -8,8 +8,6 @@
   </a>
 </p>
 
-[**中文版本**](./README.md)
-
 > A powerful security assessment tool
 
 ## ✨ Demo
@@ -82,7 +80,7 @@ For other uses, read the documentation： https://docs.xray.cool
 
 New detection modules will be added continuously
 
-| 名称                                            | Key              | 版本                | 说明                                                                                                                                                                           |
+| Name                                          | Key              | Version           | Explanation                                                                                                                                                                         |
 |-----------------------------------------------|------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | XSS vulnerability detection                   | `xss`            | Community Edition | Semantic analysis is used to detect XSS vulnerabilities                                                                                                                      |
 | SQL Injection Detection                       | `sqldet`         | Community Edition | It supports error injection, Boolean injection, time blind injection, etc                                                                                                    |
